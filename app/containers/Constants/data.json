@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Banana", 
+        "id": 1, 
+        "description":"A long curverd fruit that grows in cluster.", 
+        "tasteValue": "",
+        "isVisible":false
+    }, 
+    { 
+        "name": "Apple", 
+        "id": 2, 
+        "description": "A long curverd fruit that grows in cluster", 
+        "tasteValue": "",
+        "isVisible":false
+    },
+    { 
+        "name": "Mango", 
+        "id": 3, 
+        "description": "A long curverd fruit that grows in cluster", 
+        "tasteValue": "",
+        "isVisible":false
+    },
+    { 
+        "name": "grapes", 
+        "id": 4, 
+        "description": "A long curverd fruit that grows in cluster", 
+        "tasteValue": "",
+        "isVisible":false
+    },
+    { 
+        "name": "Lemon", 
+        "id": 5, 
+        "description": "A long curverd fruit that grows in cluster", 
+        "tasteValue": "",
+        "isVisible":false
+    },
+    { 
+        "name": "Orange",
+        "id": 6, 
+        "description": "A long curverd fruit that grows in cluster", 
+        "tasteValue": "",
+        "isVisible":false
+    },
+    { 
+        "name": "Strawberry", 
+        "id": 7, 
+        "description": "A long curverd fruit that grows in cluster", 
+        "tasteValue": "",
+        "isVisible":false
+    }
+  ]

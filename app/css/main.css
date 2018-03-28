@@ -1,0 +1,62 @@
+
+.overflow{
+    overflow: hidden;
+}
+.row{
+    margin:0px !important;
+}
+.slider{
+    margin-top: 4vh;
+}
+.slider-handle{
+    height: 5.6vh;
+    width: 5.6vh;
+    border: 2px solid #5068bf;
+    background-color: #FFFFFF;
+    background-image: linear-gradient(to bottom,#d4dee6 0,#d8e0e6 100%);
+    margin-top: -2vh;
+}
+
+.slider.slider-horizontal .slider-track{
+    height: 2px !important;
+    margin-top:1px !important;
+}
+.slider-tick-label{
+    width:230px !important;
+}
+.slider.slider-horizontal .slider-tick-label-container{
+    padding-left: 2vh;
+    margin-top: -6vh;
+}
+
+.slider.slider-horizontal .slider-tick-label-container .slider-tick-label{
+    font-size: 2vh !important;
+}
+.slider-tick{
+    height:0px !important;
+    width:0px !important;
+}
+.slider.slider-horizontal{
+    width:50vw !important;
+}
+.slider {
+    margin-top: 6vh !important;
+}
+.slider-selection.tick-slider-selection{
+    background-image: linear-gradient(to bottom,#1b1919 0,#191616 100%) !important;
+}
+.slider.slider-disabled .slider-handle{
+    background-image: linear-gradient(to bottom, #FFFFFF 0,#FFFFFF 100%);
+}
+.slider.slider-horizontal .slider-tick-label-container .slider-tick-label{
+    font-size: 1.2vw;
+    padding-top: 11px;
+}
+.badge{
+    height: 3.5vh;
+    width: 3.5vh;
+    font-size: 2.5vh;
+    border-radius: 50%;
+    border: 2px solid white;
+    background-color: #4fabce !important;
+}
